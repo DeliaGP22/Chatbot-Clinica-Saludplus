@@ -24,7 +24,6 @@ function enviarCorreo($email, $nombre, $fecha, $hora, $medico){
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;
 
-        // LO QUE VE EL USUARIO
         $mail->setFrom('clinicasaludplus@gmail.com', 'Clinica SaludPlus');
 
         $mail->addAddress($email);
