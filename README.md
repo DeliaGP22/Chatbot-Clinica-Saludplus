@@ -166,6 +166,3 @@ Este proyecto fue desarrollado como práctica del ciclo de Desarrollo de Aplicac
 
 Desarrolladora de Aplicaciones Multiplataforma Junior.
 
-- GitHub: https://github.com/DeliaGP22
-- LinkedIn: https://www.linkedin.com/in/delia-gallardo-pastor-b3863a331/
-
